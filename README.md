@@ -1,3 +1,4 @@
 # learning
 First Repo....
-changes
+
+## checking that config is working or not 
